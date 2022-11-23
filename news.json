@@ -1,0 +1,83 @@
+[
+    {
+        "id": 43,
+        "contentType": "news",
+        "status": "published",
+        "createdAt": "2022-08-26T16:51:50+02:00",
+        "modifiedAt": "2022-08-26T16:51:50+02:00",
+        "publishedAt": "2022-08-26T16:51:50+02:00",
+        "depublishedAt": null,
+        "fieldValues": {
+            "link": "https:\/\/github.com\/bolt\/core\/releases\/tag\/5.1.13",
+            "type": "news",
+            "target_version": "",
+            "content": "<p><span class=\"css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0\">We've released Bolt 5.1.13 as a regular maintenance release. Since this release contains a few security-related fixes, we heartily recommend all Bolt users to upgrade their installations. See the <a href=\"https:\/\/github.com\/bolt\/core\/releases\/tag\/5.1.13\">Github Release page<\/a> for details.<\/span><\/p>",
+            "slug": "bolt-5113-released",
+            "title": "\ud83d\ude80 Bolt 5.1.13 released"
+        },
+        "taxonomyValues": [],
+        "authorName": "Bob",
+        "extras": {
+            "title": "\ud83d\ude80 Bolt 5.1.13 released",
+            "excerpt": "https:\/\/github.com\/bolt\/core\/releases\/tag\/5.1.13. news. We've released Bolt 5.1.13 as a regular maintenance release. Since this release contains a few security-related fixes, we heartily recommend all Bolt users to upgrade their installations. See the Github Release page for det\u2026",
+            "link": "\/newsitem\/bolt-5113-released",
+            "icon": "fa-file-alt",
+            "name": "News",
+            "singular_name": "Newsitem"
+        }
+    },
+    {
+        "id": 42,
+        "contentType": "news",
+        "status": "published",
+        "createdAt": "2022-07-05T17:28:36+02:00",
+        "modifiedAt": "2022-07-05T17:28:57+02:00",
+        "publishedAt": "2022-07-05T17:28:36+02:00",
+        "depublishedAt": null,
+        "fieldValues": {
+            "content": "<p>Happy July, everyone! We've just released Bolt 5.1.11, with a few minor tweaks and bugfixes. Check the <a href=\"https:\/\/github.com\/bolt\/core\/releases\/tag\/5.1.11\">Github release page<\/a> for details, and (as always) run <code>composer update<\/code> to update!<\/span><\/p>",
+            "slug": "bolt-5111-released",
+            "title": "\ud83d\ude80 Bolt 5.1.11 released",
+            "link": "https:\/\/github.com\/bolt\/core\/releases\/tag\/5.1.11",
+            "type": "news",
+            "target_version": ""
+        },
+        "taxonomyValues": [],
+        "authorName": "Bob",
+        "extras": {
+            "title": "\ud83d\ude80 Bolt 5.1.11 released",
+            "excerpt": "Happy July, everyone! We've just released Bolt 5.1.11, with a few minor tweaks and bugfixes. Check the Github release page for details, and (as always) run composer update to update!. https:\/\/github.com\/bolt\/core\/releases\/tag\/5.1.11. news",
+            "link": "\/newsitem\/bolt-5111-released",
+            "icon": "fa-file-alt",
+            "name": "News",
+            "singular_name": "Newsitem"
+        }
+    },
+    {
+        "id": 41,
+        "contentType": "news",
+        "status": "published",
+        "createdAt": "2022-06-17T18:09:39+02:00",
+        "modifiedAt": "2022-06-17T18:09:39+02:00",
+        "publishedAt": "2022-06-17T18:09:39+02:00",
+        "depublishedAt": null,
+        "fieldValues": {
+            "content": "<p><span class=\"css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0\">Happy Friday, everyone! We've just released Bolt 5.1.10, with a bunch of fresh, new bugfixes. Check the <a href=\"https:\/\/github.com\/bolt\/core\/releases\/tag\/5.1.10\">Github release page<\/a> for details, and (as always) run <code>composer update<\/code> to update!<\/span><\/p>",
+            "slug": "bolt-5110-released",
+            "title": "\u2600\ufe0f Bolt 5.1.10 released",
+            "link": "https:\/\/github.com\/bolt\/core\/releases\/tag\/5.1.10",
+            "type": "news",
+            "target_version": ""
+        },
+        "taxonomyValues": [],
+        "authorName": "Bob",
+        "extras": {
+            "title": "\u2600\ufe0f Bolt 5.1.10 released",
+            "excerpt": "Happy Friday, everyone! We've just released Bolt 5.1.10, with a bunch of fresh, new bugfixes. Check the Github release page for details, and (as always) run composer update to update!. https:\/\/github.com\/bolt\/core\/releases\/tag\/5.1.10. news",
+            "link": "\/newsitem\/bolt-5110-released",
+            "icon": "fa-file-alt",
+            "name": "News",
+            "singular_name": "Newsitem"
+        }
+    }
+]
